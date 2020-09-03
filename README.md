@@ -2,6 +2,16 @@
 
 > Vault, organize and protect secrets with password.
 
+## Table of Contents
+
+- [Dependency](#dependency)
+- [How to use](#how-to-use)
+  - [Example](#example)
+    - [Add secret](#add-secret)
+    - [Show saved secrets](#show-saved-secrets)
+    - [Reveal secret using key](#reveal-secret-using-key)
+    - [Reveal secret with encrypted string](#reveal-secret-with-encrypted-string)
+
 ## Dependency
 
 - [openssl](https://linux.die.net/man/1/openssl)
