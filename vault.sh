@@ -18,7 +18,7 @@ usage() {
 }
 
 set_var() {
-    _VAULT_FILE="./secret.vault"
+    _VAULT_FILE="$(dirname "$0")/secret.vault"
     _OPENSSL="$(command -v openssl)" || command_not_found "openssl"
 }
 
