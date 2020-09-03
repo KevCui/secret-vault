@@ -1,6 +1,6 @@
 # Secret Vault
 
-> Vault, organize and protect secrets with password.
+> Store, organize and protect sensitive data with password.
 
 ## Table of Contents
 

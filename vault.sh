@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Vault, organize and secrets with password
+# Store, organize and protect sensitive data with password
 #
 #/ Usage:
 #/   ./vault.sh [-s <string>|-k <key>]
